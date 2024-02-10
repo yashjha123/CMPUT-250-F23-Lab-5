@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Lab 5/Scenes/1 TopDownIntrolevel.unity
+- path: Assets/Lab 5/Scenes/2 TopDownPracticeLevel.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
